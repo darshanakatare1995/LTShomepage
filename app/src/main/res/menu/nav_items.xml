@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navhome"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/navshare"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+
+    <item android:id="@+id/navcontact"
+        android:title="Cotact US"
+        android:icon="@drawable/ic_baseline_contacts_24"/>
+
+    <item android:id="@+id/back"
+        android:title="Back"
+        android:icon="@drawable/ic_baseline_arrow_back_24"/>
+
+</menu>
